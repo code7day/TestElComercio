@@ -115,11 +115,11 @@ echo chr(10);
 /**
 * metodo 1 (recomendado)
 */
-echo "Metodo 1 (recomendado): " . $obj->build($text);
+echo " | Metodo 1 (recomendado): " . $obj->build($text);
 echo chr(10);
 
 /**
 * metodo 2
 */
-echo "Metodo 2: " . $obj->build_src($text);
+echo " | Metodo 2: " . $obj->build_src($text);
 echo chr(10);
