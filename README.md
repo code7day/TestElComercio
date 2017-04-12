@@ -1,7 +1,7 @@
 # TestElComercio
 Casos resueltos
 
-## Para hacer Deploy de el ultimo caso (Parte 2 del test)
+## Para hacer Deploy el ultimo caso (Parte 2 del test)
 
 0) se implementó con PHP 7.1
 1) hay que situarse dentro de "parte2/employees", una vez dentro...
