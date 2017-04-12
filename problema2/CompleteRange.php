@@ -24,7 +24,7 @@ class CompleteRange{
 */
 $collection = [5,8,10];  //change
 $obj = new CompleteRange();
-echo "Numeros ingresados: " . json_encode($collection);
+echo "Rango ingresado: " . json_encode($collection);
 echo chr(10);
 /**
 * metodo 1 (recomendado)
